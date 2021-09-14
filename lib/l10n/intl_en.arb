@@ -1,0 +1,21 @@
+{
+    "@@locale": "en",
+    "app_language":"App language",
+    "cancel":"Cancel",
+    "dark_mode":"Dark mode",
+    "desort":"Desort",
+    "empty":"Empty",
+    "genre":"Genre: ",
+    "here_your_search_results_will_appear":"Here your search results will appear",
+    "hint_search":"Write here",
+    "languages":"Languages",
+    "light_mode":"Light mode",
+    "movie": "Movie",
+    "movies": "Movies",
+    "replay":"Replay",
+    "search":"Search",
+    "select_your_preferred_languages":"Select your preferred languages",
+    "settings": "Settings",
+    "sort":"Sort",
+    "tapAgainToLeave": "Tap again to leave"
+}

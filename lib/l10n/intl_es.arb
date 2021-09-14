@@ -1,0 +1,20 @@
+{
+    "@@locale": "es",
+    "app_language":"Idioma de la aplicación",
+    "cancel":"Cancelar",
+    "dark_mode":"Modo oscuro",
+    "desort":"Desordenar",
+    "empty":"No se encontro nada",
+    "genre":"Genero",
+    "here_your_search_results_will_appear":"Aquí aparecerán tus resultados de la búsqueda",
+    "languages":"Idiomas",
+    "light_mode":"Modo claro",
+    "movie": "Película",
+    "movies": "Películas",
+    "replay":"Buscar de nuevo",
+    "search":"Buscar",
+    "select_your_preferred_languages":"Selecciona tu idioma preferido",
+    "settings": "Ajustes",
+    "sort":"Ordenar",
+    "tapAgainToLeave": "Toca de nuevo para salir"
+}
